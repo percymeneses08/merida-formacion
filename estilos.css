@@ -1,0 +1,31 @@
+form
+{
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  align-items: flex-start;
+}
+
+#name
+{
+  width: 100%;
+}
+#email
+{
+  width: 100%;
+}
+#message
+{
+  width: 100%;
+}
+
+#botonFormulario
+{
+  margin: auto;
+  padding: 10px;
+  background: #2CE64E;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
